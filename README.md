@@ -4,8 +4,9 @@
 
 This repository serves as a roadmap for BIM (Building Information Modeling) engineers looking to enhance their skills in next level.
 
-Why this repo created ? Many BIM engineers are looking to expand their knowledge and skills in technologies and relevant into job, but they often struggle to find a clear path to follow. This roadmap aims to provide a structured guide for BIM engineers to learn and master AEC technologies, build their expertise, and advance their careers.
+![](./docs/bim.png)
 
+Why this repo created ? Many BIM engineers are looking to expand their knowledge and skills in technologies and relevant into job, but they often struggle to find a clear path to follow. This roadmap aims to provide a structured guide for BIM engineers to learn and master AEC technologies, build their expertise, and advance their careers.
 
 ## Roadmap Topics
 
