@@ -14,7 +14,7 @@ Why this repo created ? Many BIM engineers are looking to expand their knowledge
 2. AutoCAD 
 4. Grasshopper
 5. Dynamo - Visual Programming
-6. Forge - Autodesk Platform Services
+6. Forge - Autodesk Platform Services (APS)
 7. BIM 360 - ACC (Autodesk Construction Cloud)
 8. Navisworks
 9. Rhino
@@ -41,6 +41,8 @@ Why this repo created ? Many BIM engineers are looking to expand their knowledge
 30. User Interface Design
 31. Graphic Design
 32. 3D Modeling
+33. Power BI
+34. AI Tools
 
 ## Roadmap By Job
 
